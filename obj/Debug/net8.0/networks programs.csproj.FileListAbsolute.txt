@@ -1,0 +1,15 @@
+C:\Users\bkv25\Desktop\networks programs\bin\Debug\net8.0\networks programs.exe
+C:\Users\bkv25\Desktop\networks programs\bin\Debug\net8.0\networks programs.deps.json
+C:\Users\bkv25\Desktop\networks programs\bin\Debug\net8.0\networks programs.runtimeconfig.json
+C:\Users\bkv25\Desktop\networks programs\bin\Debug\net8.0\networks programs.dll
+C:\Users\bkv25\Desktop\networks programs\bin\Debug\net8.0\networks programs.pdb
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\networks programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\networks programs.AssemblyInfoInputs.cache
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\networks programs.AssemblyInfo.cs
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\networks programs.csproj.CoreCompileInputs.cache
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\networks programs.dll
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\refint\networks programs.dll
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\networks programs.pdb
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\networks programs.genruntimeconfig.cache
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\ref\networks programs.dll
+C:\Users\bkv25\Desktop\networks programs\obj\Debug\net8.0\networks programs.sourcelink.json
